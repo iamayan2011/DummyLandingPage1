@@ -1,70 +1,80 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dummy Landing Page 1
 
-## Available Scripts
+This is a simple landing page built using ReactJS.  
 
-In the project directory, you can run:
+This project was a part of the assesment component of a company and was done in a limited time. A Figma file was provided and was asked to implement it.
 
-### `npm start`
+All the sections of the Figma design has been succesfully implemented. The site is fully responsive
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Full Page Screenshot](https://github.com/iamayan2011/DummyLandingPage1/blob/main/screenshots/ss1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+The app has following features/operations:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Single Page React Application
+* React bootstrap framework was used.
+* Implemented from a Figma Design
+* The webpage is fully responsive.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Client:** 
+* React
+* React Bootstrap
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To run locally, follow these steps:
+Open your terminal and then type
+```
+$ git clone https://github.com/iamayan2011/DummyLandingPage1
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This clones the repo
 
-### Code Splitting
+`cd` into the client folder and type
+```
+$ npm install
+```
+This installs the required dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To run the React project.
+```
+$ npm start
+```
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contributing
 
-### Making a Progressive Web App
+If you want to contribute to this project, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Fork this repository.
+* Create a new branch (git checkout -b feature/your-feature-name).
+* Make changes and commit them (git commit -m "Add your commit message").
+* Push your changes to your forked repository (git push origin feature/your-feature-name).
+* Open a pull request.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## 🚀 About Me
+I am a third year undergraduate (Batch 2021-2025) at Indian Institute of Information Technology, Sri City. 
+I'm a passionate full stack developer with focus on MERN Stack.
+Apart from this, I am interested in Graphic Designing and UI/UX Designing. I am open to Internship opportunities with in the domain of Web Development.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Let's connect on LinkedIn.
 
-### `npm run build` fails to minify
+[Ayan Raza - LinkedIn](https://www.linkedin.com/in/iamayan2011/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Ayan Raza - GitHub](https://github.com/iamayan2011)
+
+
+
+
