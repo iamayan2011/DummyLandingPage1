@@ -1,0 +1,52 @@
+.parentmark{
+    margin-top: 25%;
+}
+
+.img1{
+    margin-left: 25px;
+}
+
+.progressbar{
+    background-color: linear-gradient(270deg, #38EF7D 0%, #11998E 100%);
+border-radius: 100px;
+background: -webkit-linear-gradient(90deg, rgba(56,239,125,1) 0%, rgba(17,153,142,1) 100%) !important;
+
+}
+
+.number{
+    font-size:26px;
+    font-weight: 700;
+    padding: 0px !important;
+    margin: 0px !important;
+    line-height: 1;
+}
+
+.callus{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.view{
+    justify-content: start;
+}
+
+@media screen and (width<1141px) {
+    .view{
+        justify-content: center !important;
+    }
+
+    .callus1 {
+        
+        justify-content: center;
+    }
+
+    
+}
+
+@media screen and (width < 770px) {
+    .callus1 {
+        margin: 20px !important;
+        justify-content: center;
+    }
+}
+

@@ -1,0 +1,46 @@
+.blogcont{
+    padding: 4%;
+    
+    border:2px solid #E0E1E6;
+    border-radius: 20px;
+    
+
+}
+
+.blogdet{
+    margin-bottom: 2%;
+}
+
+.blogimg{
+    max-width: 275px;
+    width: 95%;
+    height: auto;
+}
+
+.catbtn{
+
+padding: 5px 24.4388px;
+gap: 8.73px;
+background: linear-gradient(270deg, rgba(56, 239, 125, 0.25) 0%, rgba(17, 153, 142, 0.25) 100%);
+border-radius: 87.2813px;
+
+
+}
+
+.catbtntxt{
+    background: -webkit-linear-gradient(90deg, rgba(56,239,125,1) 0%, rgba(17,153,142,1) 100%) !important;
+    -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+}
+
+.dateblog{
+    margin-left: 30px;
+}
+
+.blogheading1{
+    font-size: 26px !important;
+    font-weight: 600 !important;
+
+
+}
+

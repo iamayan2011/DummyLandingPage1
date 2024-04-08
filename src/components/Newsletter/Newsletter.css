@@ -1,0 +1,45 @@
+.newsbg {
+    height: 446px;
+    background: -webkit-linear-gradient(270deg, #38EF7D 0%, #11998E 100%) !important;
+    background-clip: padding-box !important;
+    border-radius: 40px;
+    align-items: end;
+    
+    
+    
+    
+    
+}
+
+.headingnewss {
+    font-size: 40px;
+}
+.parentnewsletter{
+    margin:8%;
+    margin-bottom: 4%;
+}
+@media screen and (width <1200px) {
+    .girlnews {
+        visibility: hidden;
+    }
+    
+}
+
+@media screen and (width <550px) {
+    
+
+    .headingnewss {
+        font-size: 5.8056vw;
+    }
+
+    .newsbg {
+        width: 80%;
+        height: 10% !important;
+    }
+
+    .girlnews {
+        width:0;
+        height: 0;
+    }
+}
+

@@ -1,0 +1,119 @@
+
+
+.navb {
+  background-color: blue;
+}
+
+.nav {
+  /* Navbar */
+
+  display: flex;
+  /* flex-direction: row; */
+  /* align-items: flex-start; */
+  padding: 1.1875rem 0.5625rem; /* converted from 19px 9px */
+  gap: 0.625rem; /* converted from 10px */
+  /* align-items: center; */
+  
+  background: linear-gradient(
+    270deg,
+    rgba(56, 239, 125, 0.25) 0%,
+    rgba(17, 153, 129, 0.25) 100%
+  ) !important;
+  box-shadow: 0px 0.25rem 0.25rem rgba(0, 0, 0, 0.25); /* converted from 0px 4px 4px */
+  justify-content: space-between;
+  width: 100vw;
+  max-width: 100vw;
+  
+}
+
+
+.nav1 {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  gap: 25px;
+  align-items: center;
+  justify-content: space-betwee;
+  align-content: center;
+  font-weight: 600;
+  color: #0D141C !important;
+
+  /* Frame 8 */
+
+  /* Auto layout */
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  padding: 4.25px; 
+   gap: 25px; 
+ 
+  width: 676px;
+  height: 39px;
+
+  /* Inside auto layout */
+
+}
+
+.navtext {
+    color: #0D141C !important
+}
+
+.btn1 {
+    /* Group 10 */
+
+width: auto;
+height: 43.88px;
+border: 0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Rectangle 6 */
+
+
+
+/* Gradient 1 */
+background: linear-gradient(270deg, #38EF7D 0%, #11998E 100%);
+border-radius: 162.5px;
+color: white;
+font-weight: 500;
+
+
+}
+
+.btn2{
+    width: 24px;
+    height: 24px;
+    
+}
+
+.navright {
+    align-items: end;
+    align-content: right;
+}
+
+.down{
+    /* down arrow / 24 / Outline */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+/* Research / 24 / Outline */
+
+
+
+
+
+
+

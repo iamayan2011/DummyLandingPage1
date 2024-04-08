@@ -1,0 +1,10 @@
+.trusted {
+    font-weight: 700;
+    font-size: 42px;
+}
+
+.trusted {
+    background: -webkit-linear-gradient(90deg, rgba(56,239,125,1) 0%, rgba(17,153,142,1) 100%) !important;
+    -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,76 @@
+.parentfooter{
+    background-color: #00425A;
+    color: white;
+    
+    display: grid;
+    align-items: end;
+    overflow-y: visible;
+    bottom: 0px !important;
+    /* height: 806px; */
+    
+    align-items: baseline;
+    
+}
+
+.parentfoot1 {
+    background-color: #00425A;
+}
+
+.footer1{
+    
+    align-items: end;
+    position: relative;
+
+}
+
+
+
+.footerlist {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.footerres {
+    font-size: 26px;
+    font-weight:600;
+}
+
+.footerdesc {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.copyright {
+    font-size: 18px;
+    font-weight:500;
+    display: flex;
+    justify-content: center;
+    margin: 2.5%;
+    border-top: 20px;
+    border-color: white;
+    
+}
+
+@media screen and (width<520px){
+
+    .parentfooter {
+        width:100%;
+        margin-right: 0;
+    }
+
+    .logopay {
+        width: 50%;
+        margin: 0px !important;
+        padding: 0px;
+        justify-self:left !important;
+    }
+
+    .container {
+        max-width: 100%;
+        margin: 0px;
+    }
+    
+    
+}
+

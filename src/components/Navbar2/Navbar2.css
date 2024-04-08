@@ -1,0 +1,30 @@
+.parentnav {
+    background: linear-gradient(
+        270deg,
+        rgba(56, 239, 125, 0.25) 0%,
+        rgba(17, 153, 129, 0.25) 100%
+      ) !important;
+      
+    width: 100%;  
+    z-index:400;
+    height: 90px;
+    display:grid;
+    align-items: center;
+    
+}
+
+.navv{
+    align-items: center;
+  
+}
+
+.containerrr{
+    /* margin-top: 0.5% !important; */
+    display: grid;
+    align-items: center;
+}
+
+.navtext {
+    color: #0D141C !important;
+    font-weight: 600;
+}
