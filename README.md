@@ -31,7 +31,7 @@ The app has following features/operations:
 
 
 ## Usage
-Preview: landing-page1-one-rho.vercel.app
+[Preview - landing-page1-one-rho.vercel.app](https://landing-page1-one-rho.vercel.app/)
 
 To run locally, follow these steps:
 Open your terminal and then type
